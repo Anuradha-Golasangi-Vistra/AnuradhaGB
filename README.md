@@ -1,6 +1,6 @@
 - 👋 Hi,This is I’m Anuradha
 - I’m interested in Data and Devops
-- I’m currently learning Devops and integrations
+- I’m currently learning Devops, CICD and integrations
 - I’m looking to collaborate on realtime/ tech for good projects
 - How to reach me 
 
